@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaracx
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: jaracx@hotmail.com
 
